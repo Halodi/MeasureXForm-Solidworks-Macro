@@ -28,11 +28,12 @@ The purpose of this macro is to provide Solidworks users with a transformation m
 
 - The position and yaw/pitch/roll is provided in human readable formats
 
-- An URDF compatible string for the pose is printed, this 
+- An SDF compatible string for the pose is printed, this can be copy/pasted directly into a <gazebo> block inside a URDF file
 
 ## License
 
 Copyright 2021, Aeroanion
+
 Copyright 2023, Jesper Smith/1X Technologies
 
 The MIT License, which is very permissive. See the LICENSE.md file for license body.
